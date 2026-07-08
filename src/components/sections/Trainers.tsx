@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Instagram, Twitter, Linkedin } from 'lucide-react';
+import { FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const trainers = [
   { name: "Marcus Thorne", spec: "Head Coach / Powerlifting", exp: "12 Years", img: "trainer-1.jpg" },
