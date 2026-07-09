@@ -49,9 +49,9 @@ export default function Trainers() {
               
               {/* Overlay Socials */}
               <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
-                <a href="#" className="w-10 h-10 bg-primary flex items-center justify-center rounded-full text-white hover:scale-110 transition-transform translate-y-10 group-hover:translate-y-0 duration-300 delay-100"><Instagram className="w-5 h-5"/></a>
-                <a href="#" className="w-10 h-10 bg-primary flex items-center justify-center rounded-full text-white hover:scale-110 transition-transform translate-y-10 group-hover:translate-y-0 duration-300 delay-150"><Twitter className="w-5 h-5"/></a>
-                <a href="#" className="w-10 h-10 bg-primary flex items-center justify-center rounded-full text-white hover:scale-110 transition-transform translate-y-10 group-hover:translate-y-0 duration-300 delay-200"><Linkedin className="w-5 h-5"/></a>
+                <a href="#" className="w-10 h-10 bg-primary flex items-center justify-center rounded-full text-white hover:scale-110 transition-transform translate-y-10 group-hover:translate-y-0 duration-300 delay-100"><FaInstagram className="w-5 h-5"/></a>
+                <a href="#" className="w-10 h-10 bg-primary flex items-center justify-center rounded-full text-white hover:scale-110 transition-transform translate-y-10 group-hover:translate-y-0 duration-300 delay-150"><FaTwitter className="w-5 h-5"/></a>
+                <a href="#" className="w-10 h-10 bg-primary flex items-center justify-center rounded-full text-white hover:scale-110 transition-transform translate-y-10 group-hover:translate-y-0 duration-300 delay-200"><FaLinkedin className="w-5 h-5"/></a>
               </div>
 
               <div className="p-6 relative z-10 bg-background group-hover:-translate-y-2 transition-transform duration-300">
